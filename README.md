@@ -1,16 +1,28 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=polnikii&style=flat&abbreviated=true)
 
-<!--
-**notpolnikii/notpolnikii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=center&pause=1000&center=true&vCenter=true&width=435&lines=polnikii+%2F%2F+amateur+coder" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="bots logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=notpolnikii&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
